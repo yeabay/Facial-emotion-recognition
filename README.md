@@ -1,4 +1,4 @@
-# Facial-emotion-recognition
+# Facial-emotion-recognition<br>
 >AAIT
 facial emotion recognition machine learning project using the FER2013 dataset
 download and use the fer2013 dataset from [huggingface](https://huggingface.co/spaces/mxz/emtion/blob/c697775e0adc35a9cec32bd4d3484b5f5a263748/fer2013.csv)
